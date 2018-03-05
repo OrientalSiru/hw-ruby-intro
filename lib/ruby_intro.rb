@@ -1,5 +1,5 @@
 # When done, submit this entire file to the autograder.
-# Siru Li homework 1
+# Siru Li homework 1 Final
 # Part 1
 
 def sum arr
